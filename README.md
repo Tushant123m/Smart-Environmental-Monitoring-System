@@ -10,7 +10,7 @@ The Smart Environmental Monitoring System is designed to measure and report vari
 - **MQ135**: Air quality sensor for detecting various gases.
 - **DHT11**: Sensor for measuring temperature and humidity.
 - **LDR**: Light-dependent resistor for measuring light intensity.
-- **LCD Display (Optional)**: For displaying sensor readings. (Not implemented in the current version)
+- **LCD Display (Additional)**: For displaying sensor readings. (Is implemented in current version)
 
 ## Software Used
 
