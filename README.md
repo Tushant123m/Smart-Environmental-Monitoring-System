@@ -29,7 +29,7 @@ The Smart Environmental Monitoring System is designed to measure and report vari
    - Connect the MQ135 sensor to the STM32F401RE.
    - Connect the DHT11 sensor to the STM32F401RE.
    - Connect the LDR to the STM32F401RE.
-   - (Optional) Connect an LCD display to the STM32F401RE.
+   - Connect an LCD display to the STM32F401RE.
 
 2. **Software Configuration:**
    - Open STM32CubeMX and configure the peripherals.
